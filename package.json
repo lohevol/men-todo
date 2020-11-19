@@ -1,0 +1,25 @@
+{
+  "name": "men-swokko",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lohevol/men-todo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "handlebars"
+  ],
+  "author": "lohevol <lohevol@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lohevol/men-todo/issues"
+  },
+  "homepage": "https://github.com/lohevol/men-todo#readme"
+}
